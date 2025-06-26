@@ -1,0 +1,52 @@
+# Responsive Webpage Project
+
+## Owner
+**Hany Younan**  
+Frontend Developer passionate about building clean, responsive, and user-friendly web interfaces.
+
+---
+
+This project is a professionally designed responsive webpage built using core web technologies: **HTML5**, **CSS3**, and **Vanilla JavaScript**. It integrates **Bootstrap** to leverage pre-built responsive components and grid system, combined with custom **media queries** to ensure optimal display and usability across all devices and screen sizes.
+
+## Key Features
+
+- **Semantic and accessible HTML5** structure.
+- Custom styling with **CSS3**, enhancing Bootstrap defaults.
+- Interactive UI behaviors powered by vanilla **JavaScript**.
+- Responsive grid layout and components via **Bootstrap**.
+- Fine-tuned responsiveness through custom **media queries** targeting multiple breakpoints.
+- Cross-browser compatibility and mobile-first design approach.
+- Clean, minimalistic design focused on user experience.
+- Fast loading and optimized assets for performance.
+
+## Technologies Used
+
+- HTML5
+- CSS3 (including Flexbox and Grid)
+- Vanilla JavaScript (ES6+)
+- Bootstrap (version 4/5 via CDN)
+- Media Queries for responsiveness
+
+## How to Use
+
+1. Clone or download this repository.
+2. Open `index.html` in any modern web browser.
+3. Customize styles and scripts as needed.
+4. No build tools or package managers required.
+
+
+## Additional Notes
+
+- Bootstrap is included via CDN for fast setup and smaller repo size.
+- Media queries adjust layout, typography, and visibility for better UX on all screen sizes.
+- All code follows best practices for readability, maintainability, and scalability.
+- Designed to be easily extended or integrated into larger projects.
+
+---
+
+**Feel free to reach out for collaboration or questions!**
+
+Contact: hany@example.com (replace with actual email)  
+
+GitHub: [github.com/hanynan8](https://github.com/hanynan8)  
+Upwork: [upwork.com/freelancers/~your-upwork-profile](https://www.upwork.com/freelancers/~01999a6834f779f66d)  <!-- غير الرابط هنا للرابط الحقيقي -->
